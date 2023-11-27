@@ -22,6 +22,7 @@ struct Card {
             for item in contents {
                 cardList.append(UIImage(imageLiteralResourceName: item.lastPathComponent))
             }
+            
         } catch let error as NSError {
             print(error)
         }

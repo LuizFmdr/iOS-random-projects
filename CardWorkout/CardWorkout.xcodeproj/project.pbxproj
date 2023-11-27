@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		25C5690F2B1414EC00C49E71 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25C5690E2B1414EC00C49E71 /* Card.swift */; };
-		25C569142B14A03E00C49E71 /* cards.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 25C569132B14A03E00C49E71 /* cards.bundle */; };
+		25DC3F3D2B15046800C606E1 /* cards.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 25DC3F3C2B15046700C606E1 /* cards.bundle */; };
 		25EF8F222B140713004CD870 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EF8F212B140713004CD870 /* AppDelegate.swift */; };
 		25EF8F242B140713004CD870 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EF8F232B140713004CD870 /* SceneDelegate.swift */; };
 		25EF8F262B140713004CD870 /* CardSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25EF8F252B140713004CD870 /* CardSelectionViewController.swift */; };
@@ -19,7 +19,7 @@
 
 /* Begin PBXFileReference section */
 		25C5690E2B1414EC00C49E71 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
-		25C569132B14A03E00C49E71 /* cards.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = cards.bundle; path = ../../../../Downloads/cards.bundle; sourceTree = "<group>"; };
+		25DC3F3C2B15046700C606E1 /* cards.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = cards.bundle; sourceTree = "<group>"; };
 		25EF8F1E2B140713004CD870 /* CardWorkout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardWorkout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25EF8F212B140713004CD870 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25EF8F232B140713004CD870 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 				25EF8F2C2B140714004CD870 /* LaunchScreen.storyboard */,
 				25EF8F2F2B140714004CD870 /* Info.plist */,
 				25C5690E2B1414EC00C49E71 /* Card.swift */,
-				25C569132B14A03E00C49E71 /* cards.bundle */,
+				25DC3F3C2B15046700C606E1 /* cards.bundle */,
 			);
 			path = CardWorkout;
 			sourceTree = "<group>";
@@ -132,9 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				25EF8F2E2B140714004CD870 /* LaunchScreen.storyboard in Resources */,
+				25DC3F3D2B15046800C606E1 /* cards.bundle in Resources */,
 				25EF8F2B2B140714004CD870 /* Assets.xcassets in Resources */,
 				25EF8F292B140713004CD870 /* Main.storyboard in Resources */,
-				25C569142B14A03E00C49E71 /* cards.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
