@@ -1,10 +1,3 @@
-//
-//  ColorsTableViewController.swift
-//  RandomColors
-//
-//  Created by Luiz Filipe Medeira on 26/11/23.
-//
-
 import UIKit
 
 class ColorsTableViewController: UIViewController {
