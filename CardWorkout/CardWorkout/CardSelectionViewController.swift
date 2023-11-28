@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  CardWorkout
-//
-//  Created by Luiz Filipe Medeira on 26/11/23.
-//
-
 import UIKit
 
 class CardSelectionViewController: UIViewController {
@@ -45,4 +38,3 @@ class CardSelectionViewController: UIViewController {
         startTimer()
     }
 }
-
