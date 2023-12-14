@@ -15,6 +15,7 @@
 		2582D1112B1565130094B4C2 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2582D1102B1565130094B4C2 /* CWButton.swift */; };
 		2582D1132B15F3B20094B4C2 /* cards.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 2582D1122B15F3B20094B4C2 /* cards.bundle */; };
 		2582D1152B15F5A00094B4C2 /* CardListFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2582D1142B15F5A00094B4C2 /* CardListFactory.swift */; };
+		2582D1172B15FE660094B4C2 /* RulesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2582D1162B15FE660094B4C2 /* RulesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2582D1102B1565130094B4C2 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 		2582D1122B15F3B20094B4C2 /* cards.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = cards.bundle; sourceTree = "<group>"; };
 		2582D1142B15F5A00094B4C2 /* CardListFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardListFactory.swift; sourceTree = "<group>"; };
+		2582D1162B15FE660094B4C2 /* RulesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				2582D0FE2B1561F30094B4C2 /* SceneDelegate.swift */,
 				2582D1002B1561F30094B4C2 /* CardSelectionViewController.swift */,
 				2582D1102B1565130094B4C2 /* CWButton.swift */,
+				2582D1162B15FE660094B4C2 /* RulesViewController.swift */,
 				2582D1052B1561F40094B4C2 /* Assets.xcassets */,
 				2582D1072B1561F40094B4C2 /* LaunchScreen.storyboard */,
 				2582D10A2B1561F40094B4C2 /* Info.plist */,
@@ -148,6 +151,7 @@
 				2582D1012B1561F30094B4C2 /* CardSelectionViewController.swift in Sources */,
 				2582D0FD2B1561F30094B4C2 /* AppDelegate.swift in Sources */,
 				2582D0FF2B1561F30094B4C2 /* SceneDelegate.swift in Sources */,
+				2582D1172B15FE660094B4C2 /* RulesViewController.swift in Sources */,
 				2582D1112B1565130094B4C2 /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
